@@ -1,0 +1,10 @@
+.cardCentral {
+  border-radius: 5px;
+  border: 3px dashed #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #008b8b;
+  width: 320px;
+  margin: 10px 0;
+}
